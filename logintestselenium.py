@@ -2,8 +2,8 @@
 #https://chromedriver.storage.googleapis.com/index.html?path=2.38/
 # download seleniun using pip3 install selenium
 from selenium import webdriver
-username= 'shobitgupta'
-password= 'crerock'
+username= 'sgsdgsdgd'
+password= 'ffff'
 url = 'https://rltrac.com/login/?id=2'
 driver = webdriver.Chrome("/home/suraj/Desktop/geckodriver")  
 driver.get(url)
